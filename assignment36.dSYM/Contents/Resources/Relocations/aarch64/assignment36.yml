@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/anshukushwaha/c language/assignment36'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _LenghtStr, symObjAddr: 0x0, symBinAddr: 0x100003998, symSize: 0x50 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _LenghtStr, symObjAddr: 0x0, symBinAddr: 0x100003998, symSize: 0x50 }
+  - { offsetInCU: 0x77, offset: 0x77, size: 0x8, addend: 0x0, symName: _reverse, symObjAddr: 0x50, symBinAddr: 0x1000039E8, symSize: 0xE8 }
+  - { offsetInCU: 0xC9, offset: 0xC9, size: 0x8, addend: 0x0, symName: _Comp_String, symObjAddr: 0x138, symBinAddr: 0x100003AD0, symSize: 0xF0 }
+  - { offsetInCU: 0x10D, offset: 0x10D, size: 0x8, addend: 0x0, symName: _CompareString, symObjAddr: 0x228, symBinAddr: 0x100003BC0, symSize: 0x1B4 }
+  - { offsetInCU: 0x1A0, offset: 0x1A0, size: 0x8, addend: 0x0, symName: _Upper_string, symObjAddr: 0x3DC, symBinAddr: 0x100003D74, symSize: 0xAC }
+  - { offsetInCU: 0x1E0, offset: 0x1E0, size: 0x8, addend: 0x0, symName: _Lower_string, symObjAddr: 0x488, symBinAddr: 0x100003E20, symSize: 0xAC }
+  - { offsetInCU: 0x220, offset: 0x220, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x534, symBinAddr: 0x100003ECC, symSize: 0x64 }
+...

@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/anshukushwaha/c language/assignment35'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _Q5_1, symObjAddr: 0x0, symBinAddr: 0x1000031E8, symSize: 0x160 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _Q5_1, symObjAddr: 0x0, symBinAddr: 0x1000031E8, symSize: 0x160 }
+  - { offsetInCU: 0x9B, offset: 0x9B, size: 0x8, addend: 0x0, symName: _Q5, symObjAddr: 0x160, symBinAddr: 0x100003348, symSize: 0xD4 }
+  - { offsetInCU: 0xED, offset: 0xED, size: 0x8, addend: 0x0, symName: _Q4_1, symObjAddr: 0x234, symBinAddr: 0x10000341C, symSize: 0x144 }
+  - { offsetInCU: 0x12D, offset: 0x12D, size: 0x8, addend: 0x0, symName: _q4, symObjAddr: 0x378, symBinAddr: 0x100003560, symSize: 0xE8 }
+  - { offsetInCU: 0x17F, offset: 0x17F, size: 0x8, addend: 0x0, symName: _Q3_1, symObjAddr: 0x460, symBinAddr: 0x100003648, symSize: 0x234 }
+  - { offsetInCU: 0x1E9, offset: 0x1E9, size: 0x8, addend: 0x0, symName: _q3, symObjAddr: 0x694, symBinAddr: 0x10000387C, symSize: 0x1D4 }
+  - { offsetInCU: 0x249, offset: 0x249, size: 0x8, addend: 0x0, symName: _q2, symObjAddr: 0x868, symBinAddr: 0x100003A50, symSize: 0x98 }
+  - { offsetInCU: 0x27F, offset: 0x27F, size: 0x8, addend: 0x0, symName: _Q2_1, symObjAddr: 0x900, symBinAddr: 0x100003AE8, symSize: 0x17C }
+  - { offsetInCU: 0x2CD, offset: 0x2CD, size: 0x8, addend: 0x0, symName: _q1, symObjAddr: 0xA7C, symBinAddr: 0x100003C64, symSize: 0x168 }
+  - { offsetInCU: 0x31B, offset: 0x31B, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xBE4, symBinAddr: 0x100003DCC, symSize: 0x18 }
+...
